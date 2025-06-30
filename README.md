@@ -6,9 +6,7 @@
   <a href="https://github.com/TSR0705/ui-snippets-collection/issues">
     <img src="https://img.shields.io/github/issues/TSR0705/ui-snippets-collection?style=for-the-badge" alt="GitHub Issues">
   </a>
-  <a href="https://github.com/TSR0705/ui-snippets-collection/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/TSR0705/ui-snippets-collection?style=for-the-badge" alt="License">
-  </a>
+
 </p>
 
 # 🎨 UI Snippets Collection
@@ -22,10 +20,8 @@ A **curated library** of small, reusable **UI design snippets**—loaders, butto
 2. [Demo](#-demo)  
 3. [What's Inside](#-whats-inside)  
 4. [Installation & Usage](#-installation--usage)  
-5. [Contributing](#-contributing)  
-6. [Roadmap](#-roadmap)  
-7. [License](#-license)  
-8. [Author](#-author)  
+5. [License](#-license)  
+6. [Author](#-author)  
 
 ---
 
@@ -63,3 +59,30 @@ A **curated library** of small, reusable **UI design snippets**—loaders, butto
    ```bash
    git clone https://github.com/TSR0705/ui-snippets-collection.git
    cd ui-snippets-collection
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).  
+See the `LICENSE` file for full details.
+
+---
+
+## 👤 About the Author
+
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/TSR0705" alt="Tanmay Singh" width="100" style="border-radius:50%;" />
+  <h3>Tanmay Singh</h3>
+  <p>
+    <em>Innovative Tech Creator & Frontend Aficionado</em><br/>
+    Cloud Computing Student | UI/UX Enthusiast | JavaScript Evangelist
+  </p>
+  <p>
+    📫 <a href="mailto:tanmaysingh8246@gmail.com">tanmaysingh8246@gmail.com</a><br/>
+    🔗 <a href="https://github.com/TSR0705">github.com/TSR0705</a><br/>
+    🔗 <a href="https://www.linkedin.com/in/tanmay-singh-28395b345/">linkedin.com/in/tanmay-singh-28395b345/</a>
+  </p>
+</div>
+
+
