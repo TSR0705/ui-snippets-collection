@@ -74,15 +74,17 @@ See the `LICENSE` file for full details.
 <div align="center">
   <img src="https://avatars.githubusercontent.com/TSR0705" alt="Tanmay Singh" width="100" style="border-radius:50%;" />
   <h3>Tanmay Singh</h3>
-  <p>
-    <em>Innovative Tech Creator & Frontend Aficionado</em><br/>
-    Cloud Computing Student | UI/UX Enthusiast | JavaScript Evangelist
-  </p>
+<p>
+  <em>Rising Full-Stack Innovator Shaping Next-Gen Web Experiences</em><br/>
+  Cloud-First Mindset | UI/UX-Driven | JavaScript at the Core
+</p>
+
   <p>
     📫 <a href="mailto:tanmaysingh8246@gmail.com">tanmaysingh8246@gmail.com</a><br/>
     🔗 <a href="https://github.com/TSR0705">github.com/TSR0705</a><br/>
     🔗 <a href="https://www.linkedin.com/in/tanmay-singh-28395b345/">linkedin.com/in/tanmay-singh-28395b345/</a>
   </p>
 </div>
+
 
 
